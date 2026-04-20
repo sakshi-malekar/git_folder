@@ -1,1 +1,4 @@
 This is DevOps Session
+Ans welcome to Git and GitHub session
+Today is Mondayy
+
